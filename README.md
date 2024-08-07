@@ -1,14 +1,15 @@
 # Data-Science-Capstone
 ## This is Data Science Capstone's files 
 **Data Collection:**
-  Utilized SpaceX API for launch data
+
+    Utilized SpaceX API for launch data
   
-  Employed web scraping for additional data
+    Employed web scraping for additional data
   
 **Data Wrangling:**
-  Cleaned and transformed data using pandas
-  
-  Handled missing values and duplicates
+
+    Cleaned and transformed data using pandas
+    Handled missing values and duplicates
   
 **Exploratory Data Analysis (EDA):**
   Descriptive statistics and data visualization
