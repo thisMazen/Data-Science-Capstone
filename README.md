@@ -12,27 +12,27 @@
     Handled missing values and duplicates
   
 **Exploratory Data Analysis (EDA):**
-  Descriptive statistics and data visualization
-  
-  Identified patterns and outliers
+
+      Descriptive statistics and data visualization
+      Identified patterns and outliers
   
 **Geospatial Analysis:**
-  Examined launch site locations using Folium
-  
-  Created interactive maps
+
+      Examined launch site locations using Folium
+      Created interactive maps
   
 **SQL for Data Analysis:**
-  Retrieved and analyzed data using SQL queries
-  
-  Filtered, aggregated, and joined tables
+
+      Retrieved and analyzed data using SQL queries
+      Filtered, aggregated, and joined tables
   
 **Machine Learning:**
-  Developed models (logistic regression, decision trees,SVM,KNN)
-  
-  Evaluated performance with accuracy
+
+      Developed models (logistic regression, decision trees,SVM,KNN)
+      Evaluated performance with accuracy
   
 **Dashboard Development:**
-  Built interactive dashboards with Plotly Dash
-  
-  Visualized results and findings dynamically
+
+      Built interactive dashboards with Plotly Dash
+      Visualized results and findings dynamically
 
